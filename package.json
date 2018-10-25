@@ -1,0 +1,30 @@
+{
+  "name": "@types/steem-js-alpha",
+  "version": "2.2.2",
+  "description": "Typescript definitions for steem-js library (warning: unfinished yet, contains only functions used by wise).",
+  "engines": {
+    "node": ">=10.12"
+  },
+  "directories": {},
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wise-team/types-for-steem-js.git"
+  },
+  "keywords": [
+    "steem",
+    "blockchain",
+    "wise"
+  ],
+  "author": "The Wise Team (https://wise-team.io/)",
+  "contributors": [
+    "Jędrzej Lewandowski <jedrzejblew@gmail.com> (https://jedrzej.lewandowski.doctor/)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wise-team/types-for-steem-js/issues"
+  },
+  "homepage": "https://wise.vote/"
+}
