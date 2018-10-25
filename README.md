@@ -16,7 +16,7 @@ When they are finished, we will rename the package to `@types/steem-js`;
 Add the following to your dependencies:
 ```json
 {
-    "dependencies": {
+    "devDependencies": {
         "...": "...",
         "@types/steem-js-alpha": "git+https://github.com/wise-team/types-for-steem-js.git",
         "...": "...
