@@ -1,6 +1,6 @@
 {
   "name": "@types/steem-js-alpha",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Typescript definitions for steem-js library (warning: unfinished yet, contains only functions used by wise).",
   "engines": {
     "node": ">=10.15"

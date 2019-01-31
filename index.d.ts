@@ -671,7 +671,7 @@ declare module 'steem' {
             setMaxBlockAgeWithAsync: any;
             setMaxListeners: any;*/
 
-            public setOptions(options: SteemJsOptions);
+            public setOptions(options: SteemJsOptions): void;
             
             /*setPendingTransactionCallback: any;
             setPendingTransactionCallbackAsync: any;
