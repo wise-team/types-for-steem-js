@@ -1,4 +1,5 @@
 # @types/steem-js-alpha
+
 Typescript definitions for steem-js library.
 
 ### Warning
@@ -14,11 +15,24 @@ When they are finished, we will rename the package to `@types/steem-js`;
 ## Installation
 
 Add the following to your dependencies:
+
 ```json
 {
     "devDependencies": {
         "...": "...",
         "@types/steem-js-alpha": "git+https://github.com/wise-team/types-for-steem-js.git",
+        "...": "...
+    }
+}
+```
+
+or if your CI/docker image does not support git:
+
+```json
+{
+    "devDependencies": {
+        "...": "...",
+        "@types/steem-js-alpha": "https://github.com/wise-team/types-for-steem-js/raw/master/bin/types-steem-js-alpha-3.1.2.tgz",
         "...": "...
     }
 }
