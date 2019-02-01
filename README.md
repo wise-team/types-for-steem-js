@@ -1,4 +1,7 @@
 # @types/steem-js-alpha
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/wise-team/types-for-steem-js.svg)](https://greenkeeper.io/)
+
 Typescript definitions for steem-js library.
 
 ### Warning
